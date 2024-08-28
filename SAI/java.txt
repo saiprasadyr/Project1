@@ -1,2 +1,0 @@
-pacakage==>folder 
-\n not in sop cmd but in output gives to print the output in new line
